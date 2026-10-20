@@ -1,0 +1,405 @@
+backend:
+  name: github
+  repo: mustafizurrahmanfizz99/mustafizur-portfolio
+  branch: main
+media_folder: public/images/uploads
+public_folder: /images/uploads
+collections:
+- name: portfolio
+  label: Portfolio
+  files:
+  - name: site
+    label: Site Content
+    file: src/data/portfolio-cms.json
+    format: json
+    fields:
+    - label: hero
+      name: hero
+      required: false
+      widget: object
+      fields:
+      - label: kickerAds
+        name: kickerAds
+        required: false
+        widget: string
+      - label: kickerVideo
+        name: kickerVideo
+        required: false
+        widget: string
+      - label: location
+        name: location
+        required: false
+        widget: string
+      - label: headlinePart1
+        name: headlinePart1
+        required: false
+        widget: string
+      - label: headlineGradient1
+        name: headlineGradient1
+        required: false
+        widget: string
+      - label: headlinePart2
+        name: headlinePart2
+        required: false
+        widget: string
+      - label: headlineGradient2
+        name: headlineGradient2
+        required: false
+        widget: string
+      - label: leadText
+        name: leadText
+        required: false
+        widget: text
+      - label: profileImage
+        name: profileImage
+        required: false
+        widget: image
+      - label: topBadgeLabel
+        name: topBadgeLabel
+        required: false
+        widget: string
+      - label: topBadgeValue
+        name: topBadgeValue
+        required: false
+        widget: string
+      - label: bottomBadgeLabel
+        name: bottomBadgeLabel
+        required: false
+        widget: string
+      - label: bottomBadgeValue
+        name: bottomBadgeValue
+        required: false
+        widget: string
+      - label: kpiConversations
+        name: kpiConversations
+        required: false
+        widget: string
+      - label: kpiAvgCpr
+        name: kpiAvgCpr
+        required: false
+        widget: string
+      - label: kpiVideoCount
+        name: kpiVideoCount
+        required: false
+        widget: string
+      - label: kpiCampaignsCount
+        name: kpiCampaignsCount
+        required: false
+        widget: string
+    - label: about
+      name: about
+      required: false
+      widget: object
+      fields:
+      - label: badge
+        name: badge
+        required: false
+        widget: string
+      - label: title
+        name: title
+        required: false
+        widget: string
+      - label: titleHighlight
+        name: titleHighlight
+        required: false
+        widget: string
+      - label: subtitle
+        name: subtitle
+        required: false
+        widget: text
+      - label: storyTitle
+        name: storyTitle
+        required: false
+        widget: string
+      - label: storySubtitle
+        name: storySubtitle
+        required: false
+        widget: string
+      - label: paragraph1
+        name: paragraph1
+        required: false
+        widget: text
+      - label: paragraph2
+        name: paragraph2
+        required: false
+        widget: text
+      - label: strength1Title
+        name: strength1Title
+        required: false
+        widget: string
+      - label: strength1Desc
+        name: strength1Desc
+        required: false
+        widget: string
+      - label: strength2Title
+        name: strength2Title
+        required: false
+        widget: string
+      - label: strength2Desc
+        name: strength2Desc
+        required: false
+        widget: string
+      - label: strength3Title
+        name: strength3Title
+        required: false
+        widget: string
+      - label: strength3Desc
+        name: strength3Desc
+        required: false
+        widget: text
+    - label: skills
+      name: skills
+      required: false
+      widget: list
+      fields:
+      - label: id
+        name: id
+        required: false
+        widget: string
+      - label: name
+        name: name
+        required: false
+        widget: string
+      - label: level
+        name: level
+        required: false
+        widget: number
+        value_type: int
+      - label: category
+        name: category
+        required: false
+        widget: select
+        options:
+        - ads
+        - video
+      summary: '{{fields.name}}'
+    - label: services
+      name: services
+      required: false
+      widget: list
+      fields:
+      - label: id
+        name: id
+        required: false
+        widget: string
+      - label: pillar
+        name: pillar
+        required: false
+        widget: select
+        options:
+        - ads
+        - both
+        - video
+      - label: icon
+        name: icon
+        required: false
+        widget: string
+      - label: title
+        name: title
+        required: false
+        widget: string
+      - label: description
+        name: description
+        required: false
+        widget: text
+      summary: '{{fields.title}}'
+    - label: videoProjects
+      name: videoProjects
+      required: false
+      widget: list
+      fields:
+      - label: id
+        name: id
+        required: false
+        widget: string
+      - label: title
+        name: title
+        required: false
+        widget: string
+      - label: category
+        name: category
+        required: false
+        widget: select
+        options:
+        - agency
+        - architecture
+        - branding
+        - cinematic
+        - education
+        - product
+      - label: categoryLabel
+        name: categoryLabel
+        required: false
+        widget: string
+      - label: vimeoId
+        name: vimeoId
+        required: false
+        widget: string
+      - label: aspectRatio
+        name: aspectRatio
+        required: false
+        widget: select
+        options:
+        - '16:9'
+        - '9:16'
+      - label: client
+        name: client
+        required: false
+        widget: string
+      - label: description
+        name: description
+        required: false
+        widget: text
+      summary: '{{fields.title}}'
+    - label: caseStudies
+      name: caseStudies
+      required: false
+      widget: list
+      fields:
+      - label: id
+        name: id
+        required: false
+        widget: string
+      - label: title
+        name: title
+        required: false
+        widget: string
+      - label: category
+        name: category
+        required: false
+        widget: select
+        options:
+        - engagement
+        - leadgen
+        - sales
+      - label: categoryLabel
+        name: categoryLabel
+        required: false
+        widget: string
+      - label: client
+        name: client
+        required: false
+        widget: string
+      - label: proofImage
+        name: proofImage
+        required: false
+        widget: image
+      - label: conversations
+        name: conversations
+        required: false
+        widget: string
+      - label: costPerResult
+        name: costPerResult
+        required: false
+        widget: string
+      - label: reach
+        name: reach
+        required: false
+        widget: string
+      - label: challenges
+        name: challenges
+        required: false
+        widget: list
+        field:
+          label: Item
+          name: item
+          widget: string
+          required: false
+      - label: strategy
+        name: strategy
+        required: false
+        widget: list
+        field:
+          label: Item
+          name: item
+          widget: string
+          required: false
+      summary: '{{fields.title}}'
+    - label: testimonials
+      name: testimonials
+      required: false
+      widget: list
+      fields:
+      - label: id
+        name: id
+        required: false
+        widget: string
+      - label: quote
+        name: quote
+        required: false
+        widget: text
+      - label: name
+        name: name
+        required: false
+        widget: string
+      - label: role
+        name: role
+        required: false
+        widget: string
+      - label: company
+        name: company
+        required: false
+        widget: string
+      summary: '{{fields.name}}'
+    - label: contact
+      name: contact
+      required: false
+      widget: object
+      fields:
+      - label: name
+        name: name
+        required: false
+        widget: string
+      - label: nickname
+        name: nickname
+        required: false
+        widget: string
+      - label: title
+        name: title
+        required: false
+        widget: string
+      - label: tagline
+        name: tagline
+        required: false
+        widget: string
+      - label: phone
+        name: phone
+        required: false
+        widget: string
+      - label: whatsappUrl
+        name: whatsappUrl
+        required: false
+        widget: string
+      - label: email
+        name: email
+        required: false
+        widget: string
+      - label: location
+        name: location
+        required: false
+        widget: string
+      - label: facebookUrl
+        name: facebookUrl
+        required: false
+        widget: string
+      - label: instagramUrl
+        name: instagramUrl
+        required: false
+        widget: string
+      - label: youtubeUrl
+        name: youtubeUrl
+        required: false
+        widget: string
+    - label: footer
+      name: footer
+      required: false
+      widget: object
+      fields:
+      - label: brandSummary
+        name: brandSummary
+        required: false
+        widget: text
+      - label: copyright
+        name: copyright
+        required: false
+        widget: string
