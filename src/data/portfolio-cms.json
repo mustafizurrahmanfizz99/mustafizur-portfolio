@@ -3,7 +3,7 @@
     "facebookUrl": "https://www.facebook.com/MustafizurRahmanFizz99/",
     "name": "Md Mustafizur Rahman",
     "youtubeUrl": "https://www.youtube.com/@itzmustafizz",
-    "nickname": "Fizz",
+    "nickname": "",
     "phone": "01745-100199",
     "tagline": "Bridging High-Converting AI Video Production with Low-CPR Meta Ad Campaigns",
     "location": "Mohammadpur, Dhaka, Bangladesh",
@@ -68,7 +68,7 @@
     "paragraph1": "Most agencies either only make videos or only buy ads. As a digital marketer and AI Video Creator, I connect the entire funnel. Through advanced prompt engineering, cinematic AI tools (Midjourney, Runway, Kling, Luma), and Adobe Premiere / CapCut pacing, I craft visuals engineered to stop thumbs within the first 1.5 seconds.",
     "strength3Desc": "Fast AI production workflows delivering agency-quality 9:16 and 16:9 spots within 48–72 hours.",
     "storyTitle": "Turning Tight Budgets Into Scalable Conversations",
-    "badge": "About Md Mustafizur Rahman",
+    "badge": "About Me",
     "paragraph2": "Simultaneously, in Meta Ads Manager, I structure click-to-Messenger and lead-generation campaigns that transform modest daily spends—often as little as $2 to $5/day—into steady, trackable inquiries. I review cost per result every few days, shift budget to what’s converting, and constantly test fresh creative variations before ad fatigue sets in.",
     "strength3Title": "Rapid Turnaround:",
     "strength2Title": "Cost Precision:",
@@ -83,21 +83,21 @@
       "id": "t-weaverbird",
       "quote": "Mustafizur's AI-generated promotional videos for our architectural and structural designs gave our brand a modern, high-end edge. Pairing that with his disciplined Meta Ads targeting brought us qualified client inquiries directly to our inbox.",
       "name": "Md Shahin Alam",
-      "role": "Principal Architect",
+      "role": "Owner",
       "company": "Weaverbird Architects"
     },
     {
       "id": "t-thai",
-      "quote": "Mustafizur transformed our restaurant's digital footfall. His Messenger sales ad campaigns generated over 4,400 direct customer orders while maintaining an astonishing $0.038 cost per result. He is our trusted growth partner.",
-      "name": "Somchai Prasert",
-      "role": "General Manager",
+      "quote": "“আমার পেজের মার্কেটিংয়ের কাজের জন্য আমি মোস্তাফিজুর ভাইয়ের ওপরই ভরসা করি। সত্যি বলতে, উনার কাজের ধরন আর আন্তরিকতা এক কথায় দারুণ! খুব কম সময়েই আমার পেজে বেশ ভালো একটা পরিবর্তন এসেছে। সবচেয়ে বড় বিষয় হলো— উনি কাজের প্রতি ভীষণ যত্নশীল আর যেকোনো প্রয়োজনে খুব সুন্দরভাবে গাইড করেন। যারা পেজের মার্কেটিং নিয়ে চিন্তায় আছেন, চোখ বন্ধ করে মোস্তাফিজুর ভাইয়ের সাথে যোগাযোগ করতে পারেন। মোস্তাফিজুর ভাই মাস্ট রেকমেন্ডেড! ⭐⭐⭐⭐⭐ । শুভকামনা ভাই আপনার জন্য। ❤️🔥”",
+      "name": "Antor D Costa ",
+      "role": "Owner",
       "company": "Thai Cuisine Restaurant"
     },
     {
       "id": "t-chinese",
-      "quote": "The promotional videos and Messenger ad funnels created for our Chinese language program were remarkably engaging. They directly contributed to 1,500+ student inquiries and filled our batches in record time at just $0.033 per lead.",
+      "quote": "The promotional videos and Messenger ad funnels created for our Chinese language program were remarkably engaging. They directly contributed to 500+ student inquiries and filled our batches in record time at just $0.033 per lead.",
       "name": "Shakhawat Hossien Togor",
-      "role": "Founder & Lead Instructor",
+      "role": "Founder ",
       "company": "Short Time Chinese Course"
     }
   ],
@@ -121,79 +121,6 @@
       "aspectRatio": "16:9",
       "client": "MSK Digital IT",
       "description": "Commercial promo highlighting digital growth capabilities with sleek motion typography and cinematic pacing."
-    },
-    {
-      "id": "v-watch-1",
-      "title": "Luxury Timepiece — Precision Chrono Spec Ad",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1233274298",
-      "aspectRatio": "16:9",
-      "description": "Ultra-sharp metallic reflections, micro-engraving details, and studio lighting aesthetic for luxury e-commerce."
-    },
-    {
-      "id": "v-watch-2",
-      "title": "Minimalist Watch — Commercial Launch Spot",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1233274325",
-      "aspectRatio": "16:9",
-      "description": "Clean aesthetic, smooth camera dolly motion, and premium commercial presentation for social advertising."
-    },
-    {
-      "id": "v-panjabi-vert",
-      "title": "Premium Panjabi & Ethnic Fashion — 9:16 Video Ad",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1233274030",
-      "aspectRatio": "9:16",
-      "description": "Full-bleed 9:16 vertical video ad tailored for Instagram Reels and Stories with high-converting visual hooks."
-    },
-    {
-      "id": "v-soda",
-      "title": "Sparkling Soda — Refreshing Summer Spec Ad",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1233274297",
-      "aspectRatio": "16:9",
-      "description": "Effervescent carbonation physics, ice splashes, and high-energy commercial color grading."
-    },
-    {
-      "id": "v-jersey",
-      "title": "Athletic Jersey — Sportswear Product Commercial",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1233273897",
-      "aspectRatio": "16:9",
-      "description": "Dynamic fabric simulation, intense athletic mood, and fast-paced editing designed to elevate brand authority."
-    },
-    {
-      "id": "v-mango",
-      "title": "Mango Beverage — Fresh Fruit Product Ad",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1233273896",
-      "aspectRatio": "16:9",
-      "description": "Vibrant tropical color palette with fluid liquid simulation and mouth-watering commercial imagery."
-    },
-    {
-      "id": "v-perfume",
-      "title": "Luxury Perfume — Fragrance Spec Commercial",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1233274044",
-      "aspectRatio": "16:9",
-      "description": "Moody glass caustics, soft particle atmospherics, and high-fashion luxury aesthetic."
-    },
-    {
-      "id": "v-pest",
-      "title": "Pest Zero Termite Killer — Solution Ad",
-      "category": "product",
-      "categoryLabel": "Product Ads",
-      "vimeoId": "1235026925",
-      "aspectRatio": "9:16",
-      "client": "Pest Zero",
-      "description": "Problem-solution vertical video hook showing direct application and high-urgency buyer call to action."
     },
     {
       "id": "v-arch-1",
@@ -224,6 +151,70 @@
       "aspectRatio": "9:16",
       "client": "Weaverbird Architects & Partners",
       "description": "Soft interior ambient lighting, contemporary Scandinavian furnishing, and photorealistic 3D space tour."
+    },
+    {
+      "id": "v-panjabi-vert",
+      "title": "Premium Panjabi & Ethnic Fashion — 9:16 Video Ad",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1233274030",
+      "aspectRatio": "9:16",
+      "description": "Full-bleed 9:16 vertical video ad tailored for Instagram Reels and Stories with high-converting visual hooks."
+    },
+    {
+      "id": "v-watch-1",
+      "title": "Luxury Timepiece — Precision Chrono Spec Ad",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1233274298",
+      "aspectRatio": "16:9",
+      "description": "Ultra-sharp metallic reflections, micro-engraving details, and studio lighting aesthetic for luxury e-commerce."
+    },
+    {
+      "id": "v-watch-2",
+      "title": "Minimalist Watch — Commercial Launch Spot",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1233274325",
+      "aspectRatio": "16:9",
+      "description": "Clean aesthetic, smooth camera dolly motion, and premium commercial presentation for social advertising."
+    },
+    {
+      "id": "v-perfume",
+      "title": "Luxury Perfume — Fragrance Spec Commercial",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1233274044",
+      "aspectRatio": "16:9",
+      "description": "Moody glass caustics, soft particle atmospherics, and high-fashion luxury aesthetic."
+    },
+    {
+      "id": "v-jersey",
+      "title": "Athletic Jersey — Sportswear Product Commercial",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1233273897",
+      "aspectRatio": "16:9",
+      "description": "Dynamic fabric simulation, intense athletic mood, and fast-paced editing designed to elevate brand authority."
+    },
+    {
+      "id": "v-mango",
+      "title": "Mango Beverage — Fresh Fruit Product Ad",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1233273896",
+      "aspectRatio": "16:9",
+      "description": "Vibrant tropical color palette with fluid liquid simulation and mouth-watering commercial imagery."
+    },
+    {
+      "id": "v-pest",
+      "title": "Pest Zero Termite Killer — Solution Ad",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1235026925",
+      "aspectRatio": "9:16",
+      "client": "Pest Zero",
+      "description": "Problem-solution vertical video hook showing direct application and high-urgency buyer call to action."
     },
     {
       "id": "v-course-1",
@@ -271,6 +262,15 @@
       "vimeoId": "1235030425",
       "aspectRatio": "16:9",
       "description": "Before-and-after prompt generation demonstrating stylistic evolution and visual quality upscaling."
+    },
+    {
+      "id": "v-soda",
+      "title": "Sparkling Soda — Refreshing Summer Spec Ad",
+      "category": "product",
+      "categoryLabel": "Product Ads",
+      "vimeoId": "1233274297",
+      "aspectRatio": "16:9",
+      "description": "Effervescent carbonation physics, ice splashes, and high-energy commercial color grading."
     }
   ],
   "caseStudies": [
@@ -339,7 +339,7 @@
     "topBadgeValue": "6,800+ Generated",
     "topBadgeLabel": "Conversations",
     "kickerVideo": "AI Video Creator",
-    "leadText": "As a Meta Ads Specialist and AI Visual Creator, I engineer scroll-stopping commercial video ads and highly profitable Facebook & Instagram sales funnels. My data-driven approach consistently drives real buyer conversations for as low as $0.038 CPR, maximizing your ROAS even on tight daily budgets.",
+    "leadText": "As a Meta Ads Specialist and AI Visual Creator, I engineer scroll-stopping commercial video ads and highly profitable Facebook & Instagram sales funnels. My data-driven approach consistently drives real buyer conversations for as low as $0.04 Avg. CPR , maximizing your ROAS even on tight daily budgets.",
     "headlinePart1": "Hi, I'm Mustafizur Rahman.",
     "headlinePart2": " & ",
     "kpiConversations": "6,800+",
@@ -367,13 +367,6 @@
       "description": "End-to-end setup and daily management of Messenger sales, lead-generation, and engagement campaigns optimized for lowest cost per result."
     },
     {
-      "id": "video-gen",
-      "pillar": "video",
-      "icon": "Clapperboard",
-      "title": "Cinematic AI Video Generation",
-      "description": "Commercials, hyper-realistic product videos, and teasers crafted with precision prompt engineering, lighting control, and AI motion engines."
-    },
-    {
       "id": "messenger-leads",
       "pillar": "ads",
       "icon": "MessageSquare",
@@ -381,11 +374,11 @@
       "description": "Interactive conversation funnels designed to turn cold traffic into ready-to-buy inquiries on tight daily budgets (often $2–$5/day)."
     },
     {
-      "id": "video-edit",
-      "pillar": "video",
-      "icon": "Scissors",
-      "title": "AI Video Editing & Enhancement",
-      "description": "Intelligent upscaling, frame stabilization, high-end pacing, dynamic transitions, and resolution enhancement for raw AI visual outputs."
+      "id": "testing-audiences",
+      "pillar": "ads",
+      "icon": "SlidersHorizontal",
+      "title": "Audience Research & A/B Testing",
+      "description": "Rigorous cohort testing of placements, lookalikes, custom audiences, and ad copies to identify winners before scaling budget."
     },
     {
       "id": "capi-tracking",
@@ -395,18 +388,25 @@
       "description": "Accurate server-side event tracking (CAPI) and Meta Pixel diagnostics to protect data and train Meta's bidding algorithms effectively."
     },
     {
+      "id": "video-gen",
+      "pillar": "video",
+      "icon": "Clapperboard",
+      "title": "Cinematic AI Video Generation",
+      "description": "Commercials, hyper-realistic product videos, and teasers crafted with precision prompt engineering, lighting control, and AI motion engines."
+    },
+    {
+      "id": "video-edit",
+      "pillar": "video",
+      "icon": "Scissors",
+      "title": "AI Video Editing & Enhancement",
+      "description": "Intelligent upscaling, frame stabilization, high-end pacing, dynamic transitions, and resolution enhancement for raw AI visual outputs."
+    },
+    {
       "id": "smart-captions",
       "pillar": "video",
       "icon": "Sparkles",
       "title": "Smart Subtitles & Retention Hooks",
       "description": "Kinetic animated captions and high-retention visual hooks designed specifically for 9:16 mobile feeds (Instagram Reels & TikTok)."
-    },
-    {
-      "id": "testing-audiences",
-      "pillar": "ads",
-      "icon": "SlidersHorizontal",
-      "title": "Audience Research & A/B Testing",
-      "description": "Rigorous cohort testing of placements, lookalikes, custom audiences, and ad copies to identify winners before scaling budget."
     },
     {
       "id": "vfx-audio",
